@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operators_array">
+            <item>+</item>
+            <item>-</item>
+            <item>*</item>
+            <item>/</item>
+        </string-array>
+    <color name="black">#FF000000</color>
+    <color name="buttonColor">#03DAC5</color>
+    <color name="endGradientColor">#3700B3</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="startGradientColor">#6200EE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about_developer">About the Developer</string>
+    <string name="app_name">Basic Calculator</string>
+    <string name="contact_info">Contact: vedantkothari41@gmail.com</string>
+    <string name="heart_button_description">Heart Button</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="support_removed">Support removed.</string>
+    <string name="support_thanks">Thank you for your support!</string>
+    <style name="Base.Theme.BasicCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/startGradientColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/endGradientColor</item>
+        <item name="colorSecondaryVariant">@color/endGradientColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+    </style>
+    <style name="Theme.BasicCalculator" parent="Base.Theme.BasicCalculator"/>
+    <style name="Theme.BasicCalculator.Splash" parent="Base.Theme.BasicCalculator">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+</resources>

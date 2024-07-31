@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.BasicCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/startGradientColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/endGradientColor</item>
+        <item name="colorSecondaryVariant">@color/endGradientColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+    </style>
+    <style name="Theme.BasicCalculator" parent="Base.Theme.BasicCalculator"/>
+    <style name="Theme.BasicCalculator.Splash" parent="Base.Theme.BasicCalculator">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+</resources>

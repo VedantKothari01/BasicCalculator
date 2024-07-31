@@ -1,0 +1,38 @@
+com.example.basiccalculator.app-activity-ktx-1.9.1-0 C:\Users\VedantKothari\.gradle\caches\transforms-4\049d507331d2f6545b0289756b5961c1\transformed\activity-ktx-1.9.1\res
+com.example.basiccalculator.app-drawerlayout-1.1.1-1 C:\Users\VedantKothari\.gradle\caches\transforms-4\10fea59f20385fe2821311c29690abfd\transformed\drawerlayout-1.1.1\res
+com.example.basiccalculator.app-savedstate-ktx-1.2.1-2 C:\Users\VedantKothari\.gradle\caches\transforms-4\12016ec3b091a3f2217a6485606a1356\transformed\savedstate-ktx-1.2.1\res
+com.example.basiccalculator.app-appcompat-1.7.0-3 C:\Users\VedantKothari\.gradle\caches\transforms-4\1b8c339132efe21a6163d5e02fac63bc\transformed\appcompat-1.7.0\res
+com.example.basiccalculator.app-transition-1.5.0-4 C:\Users\VedantKothari\.gradle\caches\transforms-4\1fa64bd7eea17327d04029911661709f\transformed\transition-1.5.0\res
+com.example.basiccalculator.app-lifecycle-livedata-core-2.6.2-5 C:\Users\VedantKothari\.gradle\caches\transforms-4\2172ef67696792f7c481316c91f68dfa\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.basiccalculator.app-startup-runtime-1.1.1-6 C:\Users\VedantKothari\.gradle\caches\transforms-4\231e28be1186098e336fe7a03b78d2c1\transformed\startup-runtime-1.1.1\res
+com.example.basiccalculator.app-emoji2-1.3.0-7 C:\Users\VedantKothari\.gradle\caches\transforms-4\288a0dacb3d5f9be7a8518e53be11218\transformed\emoji2-1.3.0\res
+com.example.basiccalculator.app-constraintlayout-2.1.4-8 C:\Users\VedantKothari\.gradle\caches\transforms-4\37c8aff65ff4fa2e59bfd7a7aeebc422\transformed\constraintlayout-2.1.4\res
+com.example.basiccalculator.app-recyclerview-1.1.0-9 C:\Users\VedantKothari\.gradle\caches\transforms-4\3a0baf69b911525684d0891d44bc92c2\transformed\recyclerview-1.1.0\res
+com.example.basiccalculator.app-core-1.13.0-10 C:\Users\VedantKothari\.gradle\caches\transforms-4\3ac9ea06ba727e41793d366aedad1a5b\transformed\core-1.13.0\res
+com.example.basiccalculator.app-emoji2-views-helper-1.3.0-11 C:\Users\VedantKothari\.gradle\caches\transforms-4\3b31b3dc9dd98e400c360a4c655d88f3\transformed\emoji2-views-helper-1.3.0\res
+com.example.basiccalculator.app-lifecycle-viewmodel-savedstate-2.6.2-12 C:\Users\VedantKothari\.gradle\caches\transforms-4\444693e634a06c0d279a5d539748690a\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.basiccalculator.app-lifecycle-runtime-2.6.2-13 C:\Users\VedantKothari\.gradle\caches\transforms-4\4452cb3ec6fe4f7e4e987ff24fb056b3\transformed\lifecycle-runtime-2.6.2\res
+com.example.basiccalculator.app-lifecycle-viewmodel-2.6.2-14 C:\Users\VedantKothari\.gradle\caches\transforms-4\4a1afa5ad769155277ce345af5dc8a1b\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.basiccalculator.app-lifecycle-livedata-2.6.2-15 C:\Users\VedantKothari\.gradle\caches\transforms-4\50703d9ada1d5ed57c2639ac2a258a7d\transformed\lifecycle-livedata-2.6.2\res
+com.example.basiccalculator.app-lifecycle-process-2.6.2-16 C:\Users\VedantKothari\.gradle\caches\transforms-4\7c9fa1a9d248df57e960134e6a863b35\transformed\lifecycle-process-2.6.2\res
+com.example.basiccalculator.app-core-ktx-1.13.0-17 C:\Users\VedantKothari\.gradle\caches\transforms-4\7df5638316288f68b2012baa431e72b9\transformed\core-ktx-1.13.0\res
+com.example.basiccalculator.app-annotation-experimental-1.4.0-18 C:\Users\VedantKothari\.gradle\caches\transforms-4\89f645c7bf0a2765fdf451c56e1bb393\transformed\annotation-experimental-1.4.0\res
+com.example.basiccalculator.app-fragment-1.5.4-19 C:\Users\VedantKothari\.gradle\caches\transforms-4\92b0cceaff36bbdc448f66d3c14d576d\transformed\fragment-1.5.4\res
+com.example.basiccalculator.app-lifecycle-runtime-ktx-2.6.2-20 C:\Users\VedantKothari\.gradle\caches\transforms-4\ae8ef2df5181562ec7d127491540ad3a\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.basiccalculator.app-appcompat-resources-1.7.0-21 C:\Users\VedantKothari\.gradle\caches\transforms-4\b7cb2eb8d5d0b587f82b75ee12fb5b82\transformed\appcompat-resources-1.7.0\res
+com.example.basiccalculator.app-viewpager2-1.0.0-22 C:\Users\VedantKothari\.gradle\caches\transforms-4\c4e8a53d8ea77ffff44b637ea6a12a07\transformed\viewpager2-1.0.0\res
+com.example.basiccalculator.app-core-runtime-2.2.0-23 C:\Users\VedantKothari\.gradle\caches\transforms-4\cdf52492b7cb0e8a3c1330b7e3685a9a\transformed\core-runtime-2.2.0\res
+com.example.basiccalculator.app-profileinstaller-1.3.1-24 C:\Users\VedantKothari\.gradle\caches\transforms-4\d9a561b8fe9db1bb49013f2a2e36016c\transformed\profileinstaller-1.3.1\res
+com.example.basiccalculator.app-material-1.12.0-25 C:\Users\VedantKothari\.gradle\caches\transforms-4\edae7be753cade6f26756eac530b7b2f\transformed\material-1.12.0\res
+com.example.basiccalculator.app-cardview-1.0.0-26 C:\Users\VedantKothari\.gradle\caches\transforms-4\eefaebe0ee84d9391fc5a2f256cf3c1a\transformed\cardview-1.0.0\res
+com.example.basiccalculator.app-coordinatorlayout-1.1.0-27 C:\Users\VedantKothari\.gradle\caches\transforms-4\f1e719a3a002d52baf0a831810785c95\transformed\coordinatorlayout-1.1.0\res
+com.example.basiccalculator.app-activity-1.9.1-28 C:\Users\VedantKothari\.gradle\caches\transforms-4\f66a52c7375c6ea570ae730bb7889f43\transformed\activity-1.9.1\res
+com.example.basiccalculator.app-savedstate-1.2.1-29 C:\Users\VedantKothari\.gradle\caches\transforms-4\f80b11c7b5e80aa0d3c1d417e7986b69\transformed\savedstate-1.2.1\res
+com.example.basiccalculator.app-lifecycle-viewmodel-ktx-2.6.2-30 C:\Users\VedantKothari\.gradle\caches\transforms-4\fd746a7c6509390f458a783d0aa66a10\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.basiccalculator.app-pngs-31 F:\MAD\Lab 2\BasicCalculator\app\build\generated\res\pngs\debug
+com.example.basiccalculator.app-resValues-32 F:\MAD\Lab 2\BasicCalculator\app\build\generated\res\resValues\debug
+com.example.basiccalculator.app-packageDebugResources-33 F:\MAD\Lab 2\BasicCalculator\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.basiccalculator.app-packageDebugResources-34 F:\MAD\Lab 2\BasicCalculator\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.basiccalculator.app-debug-35 F:\MAD\Lab 2\BasicCalculator\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.basiccalculator.app-debug-36 F:\MAD\Lab 2\BasicCalculator\app\src\debug\res
+com.example.basiccalculator.app-main-37 F:\MAD\Lab 2\BasicCalculator\app\src\main\res

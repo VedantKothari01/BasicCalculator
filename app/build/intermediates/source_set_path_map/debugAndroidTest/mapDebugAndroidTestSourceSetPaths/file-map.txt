@@ -1,0 +1,6 @@
+com.example.basiccalculator.test.app-core-1.5.0-0 C:\Users\VedantKothari\.gradle\caches\transforms-4\4673ae57c013fdeb44b959d4e7a5a9a1\transformed\core-1.5.0\res
+com.example.basiccalculator.test.app-annotation-experimental-1.4.0-1 C:\Users\VedantKothari\.gradle\caches\transforms-4\89f645c7bf0a2765fdf451c56e1bb393\transformed\annotation-experimental-1.4.0\res
+com.example.basiccalculator.test.app-androidTest-2 F:\MAD\Lab 2\BasicCalculator\app\build\generated\res\resValues\androidTest\debug
+com.example.basiccalculator.test.app-mergeDebugAndroidTestResources-3 F:\MAD\Lab 2\BasicCalculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.basiccalculator.test.app-mergeDebugAndroidTestResources-4 F:\MAD\Lab 2\BasicCalculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.basiccalculator.test.app-debugAndroidTest-5 F:\MAD\Lab 2\BasicCalculator\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
