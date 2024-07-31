@@ -28,7 +28,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9cc426-dbfe-4b0c-9ee2-24bb7c8637ad" name="Changes" comment="Fixed Dark Mode Glitch" />
+    <list default="true" id="3f9cc426-dbfe-4b0c-9ee2-24bb7c8637ad" name="Changes" comment="Fixed &quot;No Toast Shown&quot; error" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +98,11 @@
     <option name="BUILD_TARGET_KEY" value="apk" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Vedant Kothari &lt;vedantkothari41@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -125,7 +130,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "F:/MAD/Lab 2/BasicCalculator",
@@ -237,7 +242,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722404071214</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed &quot;No Toast Shown&quot; error">
+      <option name="closed" value="true" />
+      <created>1722404542318</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722404542318</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed &quot;No Toast Shown&quot; error">
+      <option name="closed" value="true" />
+      <created>1722404586803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722404586803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,6 +274,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed Dark Mode Glitch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Dark Mode Glitch" />
+    <MESSAGE value="Fixed &quot;No Toast Shown&quot; error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed &quot;No Toast Shown&quot; error" />
   </component>
 </project>
