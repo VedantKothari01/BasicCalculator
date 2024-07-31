@@ -28,7 +28,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9cc426-dbfe-4b0c-9ee2-24bb7c8637ad" name="Changes" comment="Fixed &quot;No Toast Shown&quot; error" />
+    <list default="true" id="3f9cc426-dbfe-4b0c-9ee2-24bb7c8637ad" name="Changes" comment="Add all project files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,8 +103,25 @@
         <option value="Vedant Kothari &lt;vedantkothari41@gmail.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "VedantKothari01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VedantKothari01/BasicCalculator.git",
+    "accountId": "5caae13e-19f9-4830-bd06-ea12ffee9f6e"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -115,6 +132,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2jpDbp7oEQ224KVl3jzeAINvOKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -258,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722404586803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add all project files">
+      <option name="closed" value="true" />
+      <created>1722405372051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722405372051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +301,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed Dark Mode Glitch" />
     <MESSAGE value="Fixed &quot;No Toast Shown&quot; error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed &quot;No Toast Shown&quot; error" />
+    <MESSAGE value="Add all project files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add all project files" />
   </component>
 </project>
