@@ -48,15 +48,11 @@ This Basic Calculator app is an Android application designed to perform basic ar
 4. **Clear**: Use the `Clear` button to reset the inputs and result.
 5. **About Page**: Click the `About` button to learn more about the app and show your appreciation with the heart icon.
 
-### Screenshots
-
-*(Add screenshots of your app here)*
-
 ### Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/basic-calculator-app.git
+    git clone https://github.com/VedantKothari01/BasicCalculator.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or physical device.
